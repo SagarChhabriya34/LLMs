@@ -1,0 +1,7 @@
+streamlit==1.43.2
+google-generativeai==0.5.4
+llama-index-core==0.12.23.post2
+llama-index-embeddings-google==0.3.0
+llama-index==0.12.23
+pymupdf==1.25.3
+pdfplumber==0.11.5 
